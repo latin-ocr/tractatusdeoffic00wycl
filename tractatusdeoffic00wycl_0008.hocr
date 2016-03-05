@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tractatusdeoffic00wycl_0008.png"; bbox 0 0 2051 3299; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 645 1362 1522 1489">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 645 1362 1522 1489">
+     <span class='ocr_line' id='line_1_1' title="bbox 645 1362 1522 1427; baseline 0.011 -18"><span class='ocrx_word' id='word_1_1' title='bbox 645 1362 1522 1427; x_wconf 49' lang='lat' dir='ltr'>BOSTOBJCOLLEGEIARRARX</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 713 1435 1455 1489; baseline 0.007 -6"><span class='ocrx_word' id='word_1_2' title='bbox 713 1435 1061 1485; x_wconf 70' lang='lat' dir='ltr'>CHESTNUT</span> <span class='ocrx_word' id='word_1_3' title='bbox 1091 1437 1249 1489; x_wconf 62' lang='lat' dir='ltr'><strong>HILL„</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1276 1438 1455 1488; x_wconf 63' lang='lat' dir='ltr'><strong>MASS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 874 1528 1259 1590">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 874 1528 1259 1590">
+     <span class='ocr_line' id='line_1_3' title="bbox 874 1528 1259 1590; baseline -0.013 0"><span class='ocrx_word' id='word_1_5' title='bbox 874 1528 981 1590; x_wconf 48' lang='lat' dir='ltr'>md</span> <span class='ocrx_word' id='word_1_6' title='bbox 1135 1531 1259 1586; x_wconf 64' lang='lat'>1857</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 959 2276 1311 2345">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 959 2276 1311 2345">
+     <span class='ocr_line' id='line_1_4' title="bbox 959 2276 1311 2345; baseline -0.011 0"><span class='ocrx_word' id='word_1_7' title='bbox 959 2276 1311 2345; x_wconf 41' lang='lat' dir='ltr'>3274ssAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 741 2634 1271 2690">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 741 2634 1271 2690">
+     <span class='ocr_line' id='line_1_5' title="bbox 741 2634 1271 2690; baseline 0.004 -17"><span class='ocrx_word' id='word_1_8' title='bbox 741 2634 850 2674; x_wconf 88' lang='lat' dir='ltr'>First</span> <span class='ocrx_word' id='word_1_9' title='bbox 875 2634 1134 2690; x_wconf 86' lang='lat' dir='ltr'>reprinting‚</span> <span class='ocrx_word' id='word_1_10' title='bbox 1169 2636 1271 2675; x_wconf 88' lang='grc'>1966</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 511 2979 1498 3022">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 511 2979 1498 3022">
+     <span class='ocr_line' id='line_1_6' title="bbox 511 2979 1498 3022; baseline 0.004 -4"><span class='ocrx_word' id='word_1_11' title='bbox 511 2979 689 3020; x_wconf 86' lang='lat' dir='ltr'>Printed</span> <span class='ocrx_word' id='word_1_12' title='bbox 715 2979 759 3019; x_wconf 90' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_13' title='bbox 785 2981 857 3021; x_wconf 83' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_14' title='bbox 882 2981 1050 3021; x_wconf 84' lang='lat' dir='ltr'><strong>United</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1073 2983 1207 3022; x_wconf 84' lang='lat' dir='ltr'>States</span> <span class='ocrx_word' id='word_1_16' title='bbox 1230 2982 1277 3022; x_wconf 83' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_17' title='bbox 1297 2982 1498 3022; x_wconf 83' lang='lat' dir='ltr'><strong>America</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
